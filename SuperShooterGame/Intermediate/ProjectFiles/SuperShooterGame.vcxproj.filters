@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\SuperShooterGame.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{723A9B72-D211-46B6-83D8-EBA2B206E071}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SuperShooterGame.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SuperShooterGameEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{B6B02F18-36C8-479B-B76B-0830CE474500}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\SuperShooterGame">
+			<UniqueIdentifier>{52ACD5B4-BA71-4E66-BA9A-9A7F0C2C3FC4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SuperShooterGame\SuperShooterGame.Build.cs">
+			<Filter>Source\SuperShooterGame</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\SuperShooterGame\SuperShooterGame.cpp">
+			<Filter>Source\SuperShooterGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SuperShooterGame\SuperShooterGame.h">
+			<Filter>Source\SuperShooterGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SuperShooterGame\SuperShooterGameGameModeBase.cpp">
+			<Filter>Source\SuperShooterGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SuperShooterGame\SuperShooterGameGameModeBase.h">
+			<Filter>Source\SuperShooterGame</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

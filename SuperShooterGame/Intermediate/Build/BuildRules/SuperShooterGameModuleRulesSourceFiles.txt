@@ -1,0 +1,3 @@
+D:\Users\jayden.fac6880\Documents\Unreal Projects\SuperShooterGame\Source\SuperShooterGame\SuperShooterGame.Build.cs
+D:\Users\jayden.fac6880\Documents\Unreal Projects\SuperShooterGame\Source\SuperShooterGame.Target.cs
+D:\Users\jayden.fac6880\Documents\Unreal Projects\SuperShooterGame\Source\SuperShooterGameEditor.Target.cs

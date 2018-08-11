@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SuperShooterGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Users\jayden.fac6880\Documents\Unreal Projects\SuperShooterGame\Intermediate\Build\Win64\SuperShooterGameEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Users\jayden.fac6880\Documents\Unreal Projects\SuperShooterGame\Intermediate\Build\Win64\UE4Editor\Development\SuperShooterGame\SuperShooterGame.cpp.obj"
+"D:\Users\jayden.fac6880\Documents\Unreal Projects\SuperShooterGame\Intermediate\Build\Win64\UE4Editor\Development\SuperShooterGame\SuperShooterGameGameModeBase.cpp.obj"
+"D:\Users\jayden.fac6880\Documents\Unreal Projects\SuperShooterGame\Intermediate\Build\Win64\UE4Editor\Development\SuperShooterGame\SuperShooterGame.init.gen.cpp.obj"
+"D:\Users\jayden.fac6880\Documents\Unreal Projects\SuperShooterGame\Intermediate\Build\Win64\UE4Editor\Development\SuperShooterGame\SuperShooterGameGameModeBase.gen.cpp.obj"
+"D:\Users\jayden.fac6880\Documents\Unreal Projects\SuperShooterGame\Intermediate\Build\Win64\UE4Editor\Development\SuperShooterGame\PCLaunch.rc.res"
+/OUT:"D:\Users\jayden.fac6880\Documents\Unreal Projects\SuperShooterGame\Intermediate\Build\Win64\UE4Editor\Development\SuperShooterGame\UE4Editor-SuperShooterGame.lib"
